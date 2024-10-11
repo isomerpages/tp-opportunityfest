@@ -29,14 +29,14 @@ sections:
       title: Exhibitors
       id: infopic
       button: Find out more
-      url: /26-nov
+      url: /exhibitors-list-26-nov
       image: /images/2024/exhibitors.jpg
       alt: Image alt text
   - infopic:
       title: Talks@TP Auditoria 1 & 2
       id: infopic
       button: Find out more
-      url: "#"
+      url: /talks-26-nov/
       image: /images/2024/talks.jpg
       alt: Image alt text
   - infopic:
