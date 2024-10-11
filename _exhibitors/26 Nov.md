@@ -9,6 +9,9 @@ description: ""
 <li>
 <p>Kingsmen</p>
 </li>
+</ul>
+<h4><strong>Essential Domestic Services</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
 <p>M.Y World Preschool</p>
 </li>
