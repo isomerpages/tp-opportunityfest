@@ -20,7 +20,6 @@ description: ""
 </li>
 <li>
 <p>PCF Sparkletots</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Further Education</strong></h4>
