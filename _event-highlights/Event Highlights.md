@@ -138,16 +138,21 @@ description: ""
 <br>Time: 1pm
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/EDM_for_SIA_Cabin_Crew__TP_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://JobsLah.com" rel="noopener noreferrer nofollow" target="_blank">JobsLah.com</a> Lucky
 Draw Prize and Bubble Tea giveout</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/TP_iPhone_Giveaway_EDM_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/gift_highlight___opt2.jpg">
 </div>
 </td>
 </tr>
