@@ -23,7 +23,7 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width:20%">
 <p>11am - 12pm
 <br>(Audi 1)</p>
 </td>
@@ -31,7 +31,7 @@ description: ""
 <p><strong><u>Admissions Talk: NTU, SUSS</u></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width:20%">
 <p>10.30am - 12pm
 <br>(Audi 1)</p>
 </td>
@@ -41,7 +41,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="2" colspan="1" style="width:20%">
 <p>1pm - 2.30pm
 <br>(Audi 2)</p>
 </td>
@@ -49,7 +49,7 @@ description: ""
 <p><strong><u>Green Industry Panel Discussion</u></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width:20%">
 <p>1pm - 2pm
 <br>(Audi 1)</p>
 </td>
@@ -59,7 +59,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width:20%">
 <p>2pm - 3pm
 <br>(Audi 2)</p>
 </td>
@@ -69,7 +69,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width:20%">
 <p>3pm - 4.30pm
 <br>(Audi 1)</p>
 </td>
@@ -77,7 +77,7 @@ description: ""
 <p><strong><u>Digital Industry Panel Discussion</u></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width:20%">
 <p>3pm - 4.30pm
 <br>(Audi 1)</p>
 </td>
