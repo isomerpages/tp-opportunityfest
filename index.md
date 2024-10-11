@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/isomer___2800px_x_1200px.png
+      background: /images/2024/isomer___2800px_x_507px_v6.png
       url: /contact-us/
       key_highlights:
         - title: About TPOF
