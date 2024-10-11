@@ -21,7 +21,7 @@ sections:
           url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
       variant: center
   - infobar:
-      title: Termasek Polytechnic Opportunity Fest is Back!
+      title: Temasek Polytechnic Opportunity Fest is Back!
       id: infobar
       description: Join us in this year's 2-day event and click on the links below to
         find out more details!
