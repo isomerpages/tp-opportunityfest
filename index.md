@@ -40,6 +40,13 @@ sections:
       image: /images/2024/talks.jpg
       alt: Image alt text
   - infopic:
+      title: Professional Photoshoot
+      id: infopic
+      button: Find out More
+      alt: Image alt text
+      image: /images/2024/photoshoot.jpg
+      url: /free-photoshoot-services/
+  - infopic:
       title: Job Seeker
       description: Ready to join the workforce? Prepare yourself with these essential
         tips and find great job opportunities.
@@ -71,10 +78,4 @@ sections:
       alt: Image alt text
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner/
-  - infopic:
-      title: Professional Photoshoot
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
