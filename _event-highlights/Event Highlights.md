@@ -113,7 +113,7 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Free Professional Photoshot
+<p>Complimentary Professional Photoshoot
 <br>Time: 11am to 5pm
 <br>Location: Outside Auditorium 2
 <br>Pre-registration:
@@ -121,7 +121,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Free Professional Photoshot
+<p>Complimentary Professional Photoshoot
 <br>Time: 11am to 5pm
 <br>Location: Outside Auditorium 2
 <br>Pre-registration:
