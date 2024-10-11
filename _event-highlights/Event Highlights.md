@@ -115,7 +115,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Free Professional Photoshot
 <br>Time: 11am to 5pm
-<br>Location: TP Main Foyer, near Audi 2 ramp entrance
+<br>Location: Outside Auditorium 2
 <br>Pre-registration:
 <br><a href="https://calendly.com/tpcs/tpof-2024-photoshoot-services-nov-2024" rel="noopener noreferrer nofollow" target="_blank"><u>https://calendly.com/tpcs/tpof-2024-photoshoot-services-nov-2024</u></a>
 </p>
@@ -123,7 +123,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Free Professional Photoshot
 <br>Time: 11am to 5pm
-<br>Location: TP Main Foyer, near Audi 2 ramp entrance
+<br>Location: Outside Auditorium 2
 <br>Pre-registration:
 <br><a href="https://calendly.com/tpcs/tpof-2024-photoshoot-services-nov-2024" rel="noopener noreferrer nofollow" target="_blank"><u>https://calendly.com/tpcs/tpof-2024-photoshoot-services-nov-2024</u></a>
 </p>
