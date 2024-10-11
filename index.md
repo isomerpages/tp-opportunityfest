@@ -47,6 +47,13 @@ sections:
       image: /images/2024/photoshoot.jpg
       url: /free-photoshoot-services/
   - infopic:
+      title: Event Highlights
+      id: infopic
+      button: Find out more
+      url: /event-highlights/
+      image: /images/2024/event_highlights.jpg
+      alt: Image alt text
+  - infopic:
       title: Job Seeker
       description: Ready to join the workforce? Prepare yourself with these essential
         tips and find great job opportunities.
