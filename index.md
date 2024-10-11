@@ -71,4 +71,10 @@ sections:
       alt: Image alt text
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner/
+  - infopic:
+      title: Professional Photoshoot
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
