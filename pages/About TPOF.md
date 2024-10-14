@@ -10,7 +10,7 @@ engage and empower students
 <p></p>
 <p>Dates: 26 &amp; 27 November 2024
 <br>Time: 11am to 5pm
-<br>Venue: TP Main Foyer and Auditoria 1 &amp; 2</p>
+<br>Venue: TP Auditoria 1 &amp; 2 Foyer</p>
 <p></p>
 <p>At TPOF 2024, you'll have the opportunity to engage with industry leaders
 from sectors such as media, finance, public service, logistics, and technology.
