@@ -40,7 +40,7 @@ sections:
       button: Find out More
       alt: Image alt text
       image: /images/2024/photoshoot.jpg
-      url: /free-photoshoot-services/
+      url: /complimentary-photoshoot-services/
   - infopic:
       title: Event Highlights
       id: infopic
