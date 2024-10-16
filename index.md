@@ -20,11 +20,6 @@ sections:
           description: ""
           url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
       variant: center
-  - infobar:
-      title: Temasek Polytechnic Opportunity Fest is Back!
-      id: infobar
-      description: Join us in this year's 2-day event and click on the links below to
-        find out more details!
   - infopic:
       title: Exhibitors
       id: infopic
@@ -33,7 +28,7 @@ sections:
       image: /images/2024/exhibitors.jpg
       alt: Image alt text
   - infopic:
-      title: Talks@TP Auditoria 1 & 2
+      title: Talks
       id: infopic
       button: Find out more
       url: /talks-26-nov/
