@@ -22,4 +22,11 @@ register or
 	.center-text {
 	text-align:center;
 	}
+	.col.is-8.is-offset-2.print-content{
+	width:75%;
+	}
+.col.is-1.has-float-btns.is-position-relative.is-hidden-touch
+	{
+	display:none;
+	}
 	</style>
