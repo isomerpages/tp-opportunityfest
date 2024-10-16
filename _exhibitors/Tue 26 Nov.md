@@ -163,9 +163,6 @@ description: ""
 <h4><strong>Trade and Connectivity</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cathay</p>
-</li>
-<li>
 <p>Hyundai Motor Group</p>
 </li>
 <li>
