@@ -4,6 +4,12 @@ permalink: /talks-overview/
 variant: markdown
 description: ""
 ---
+<style>
+td:first-child{
+	width:20%;
+	}
+</style>
+
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,7 +19,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Tue 26 Nov 2024</p>
+<p style="text-align:center;">Tue 26 Nov 2024</p>
 </th>
 </tr>
 <tr>
@@ -64,7 +70,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Wed 27 Nov 2024</p>
+<p style="text-align:center;">Wed 27 Nov 2024</p>
 </th>
 </tr>
 <tr>
