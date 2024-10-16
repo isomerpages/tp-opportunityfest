@@ -4,15 +4,8 @@ permalink: /event-highlights/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/gift_highlight___opt2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/gift_highlight___opt2___v3.png">
 </div>
-<style>
-	.col.is-8.is-offset-2.print-content{
-	width:75%;
-	}
-.col.is-1.has-float-btns.is-position-relative.is-hidden-touch
-	{
-	display:none;
-	}
-</style>
+<p></p>
