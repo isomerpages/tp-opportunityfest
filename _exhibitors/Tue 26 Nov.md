@@ -63,6 +63,9 @@ description: ""
 <li>
 <p>Paradox Singapore Merchant Court</p>
 </li>
+<li>
+<p>Hilton For The Stay</p>
+</li>
 </ul>
 <h4><strong>Manufacturing</strong></h4>
 <ul data-tight="true" class="tight">
