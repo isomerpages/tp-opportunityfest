@@ -8,6 +8,9 @@ description: ""
 td:first-child{
 	width:20%;
 	}
+	.col.is-1.has-float-btns.is-position-relative.is-hidden-touch{
+	display:none;
+	}
 </style>
 
 <table style="minWidth: 75px">
