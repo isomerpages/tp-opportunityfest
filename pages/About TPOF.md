@@ -38,3 +38,10 @@ Don't miss this chance to be empowered —come and explore the exciting opportun
 waiting for you!
 <br>SEAL points will be awarded to students who completes a feedback survey
 when they attend TPOF!</p>
+
+<style>
+.col.is-1.has-float-btns.is-position-relative.is-hidden-touch
+	{
+	display:none;
+	}
+</style>
