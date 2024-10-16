@@ -4,7 +4,7 @@ permalink: /exhibitors-list-26-nov/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Exhibitor List</strong><br><strong>Built Environment</strong></h4>
+<h4><strong>Built Environment</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kingsmen</p>
