@@ -7,17 +7,20 @@ description: ""
 <p>A workshop specially curated for our TP NS man.
 <br>This <em>Designing Your Life</em> workshop could help you harness your National
 Service experience and explore opportunities using design thinking principles.</p>
+<span class="center-text">
 <p><strong>Designing Your Life workshop</strong>
 <br>Date: 26 November, Tuesday
 <br>Time 9 am to 12 pm
-<br>Venue: TBA</p>
+	<br>Venue: <span style="color:red;">TBA</span></p>
 <p>Click <a href="https://form.gov.sg/66a3104840b15fac84cc9134" rel="noopener noreferrer nofollow" target="_blank"><u>HERE</u></a> to
 register or
-<br>Scan QR code</p>
-<p></p>
+<br>Scan QR code</p></span>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2024/post_ns_workshopp_QR.jpg">
 </div>
-<p>
-<br>
-</p>
+
+<style>
+	.center-text p {
+	text-align:center;
+	}
+	</style>
