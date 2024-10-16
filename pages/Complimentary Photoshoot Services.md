@@ -19,4 +19,12 @@ slot, as spaces are limited and we may not be able to accommodate latecomers.</p
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024/A2_poster.jpg">
 </div>
-<p></p>
+<style>
+	.col.is-8.is-offset-2.print-content{
+	width:75%;
+	}
+.col.is-1.has-float-btns.is-position-relative.is-hidden-touch
+	{
+	display:none;
+	}
+</style>
