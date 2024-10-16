@@ -73,9 +73,6 @@ description: ""
 <h4><strong>Manufacturing</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>NandinaREM</p>
-</li>
-<li>
 <p>Safran Landing Systems</p>
 </li>
 <li>
