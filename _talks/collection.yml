@@ -1,5 +1,5 @@
 collections:
-  talks-at-tp-auditoria-1-and-2:
+  talks:
     output: true
     order:
       - 26 Nov.md
