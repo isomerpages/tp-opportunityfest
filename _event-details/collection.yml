@@ -1,5 +1,5 @@
 collections:
-  event-layout:
+  event-details:
     output: true
     order:
       - Event Layout.md
