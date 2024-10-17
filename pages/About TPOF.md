@@ -30,7 +30,7 @@ site to share more about their undergraduate programmes and selection process.
 <p>SIA Cabin Crew Interview</p>
 </li>
 <li>
-<p>Jobs Lah iPhone 16 lucky draw campaign</p>
+<p>Jobs Lah iPhone 16 Campaign</p>
 </li>
 </ul>
 <p>Plus, many exhibitors will be offering exclusive premiums and giveaways!
