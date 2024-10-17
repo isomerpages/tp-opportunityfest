@@ -119,7 +119,7 @@ description: ""
 </table>
 <style>
 	td:first-child{
-	width:20%;
+	width:25%;
 	}
 	td,table p{
 	font-size:16px;
