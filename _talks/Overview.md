@@ -4,15 +4,6 @@ permalink: /talks-overview/
 variant: tiptap
 description: ""
 ---
-<style>
-td:first-child{
-	width:20%;
-	}
-	.col.is-1.has-float-btns.is-position-relative.is-hidden-touch{
-	display:none;
-	}
-</style>
-
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -22,7 +13,7 @@ td:first-child{
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p style="text-align:center;">Tue 26 Nov 2024</p>
+<p>Tue 26 Nov 2024</p>
 </th>
 </tr>
 <tr>
@@ -30,7 +21,7 @@ td:first-child{
 <p>11am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Admission Talk: NTU &amp; SUSS</u></strong>
+<p><strong>Admission Talk: NTU &amp; SUSS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +33,7 @@ td:first-child{
 <p>1pm - 2.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Industry Panel Discussion: Green Economy</u></strong>
+<p><strong>Industry Panel Discussion: Green Economy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +45,7 @@ td:first-child{
 <p>3pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Industry Panel Discussion: Digital Economy </u></strong>
+<p><strong>Industry Panel Discussion: Digital Economy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +64,7 @@ td:first-child{
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p style="text-align:center;">Wed 27 Nov 2024</p>
+<p>Wed 27 Nov 2024</p>
 </th>
 </tr>
 <tr>
@@ -81,7 +72,7 @@ td:first-child{
 <p>10.30am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Admission Talk: SMU, UAS &amp; SUTD</u></strong>
+<p><strong>Admission Talk: SMU, UAS &amp; SUTD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +84,7 @@ td:first-child{
 <p>1pm - 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Career Prep Talk by Mcgraw Hill</u></strong>
+<p><strong>Career Prep Talk by Mcgraw Hill</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +96,7 @@ td:first-child{
 <p>2pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Admission Talk: NUS &amp; SIT</u></strong>
+<p><strong>Admission Talk: NUS &amp; SIT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +108,7 @@ td:first-child{
 <p>3pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Industry Panel Discussion: Care Economy</u></strong>
+<p><strong>Industry Panel Discussion: Care Economy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,15 +117,4 @@ td:first-child{
 </tr>
 </tbody>
 </table>
-<style>
-	.col.is-8.is-offset-2.print-content{
-	width:75%;
-	}
-.col.is-1.has-float-btns.is-position-relative.is-hidden-touch
-	{
-	display:none;
-	}
-	p, td{
-	font-size:16px;
-	}
-</style>
+<p></p>
