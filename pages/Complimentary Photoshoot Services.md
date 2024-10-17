@@ -14,8 +14,7 @@ polished headshot?</p>
 <a href="https://for.edu.sg/tpof2024-photoshoot" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpof2024-photoshoot</a>
 <br>Each participant will receive one complimentary edited photo in soft copy.
 <br>Registered participants are advised to arrive within their allocated time
-slot, as spaces are limited and we may not be able to accommodate latecomers.</p>
-<p></p>
+slot, as spaces are limited and we may not be able to accommodate latecomers. Participants are recommended to dress in smart casual or formal attire</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024/A2_poster.jpg">
 </div>
