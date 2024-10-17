@@ -134,4 +134,7 @@ td:first-child{
 	{
 	display:none;
 	}
+	p, td{
+	font-size:16px;
+	}
 </style>
