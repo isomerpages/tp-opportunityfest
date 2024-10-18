@@ -35,7 +35,7 @@ site to share more about their undergraduate programmes and selection process.
 </ul>
 <p>Plus, many exhibitors will be offering exclusive premiums and giveaways!
 Don't miss this chance to be empowered —come and explore the exciting opportunities
-waiting for you!
+waiting for you!<br>
 <br>SEAL points will be awarded to students who completes a feedback survey
 when they attend TPOF!</p>
 
