@@ -4,8 +4,8 @@ permalink: /event-layout-overview/
 variant: markdown
 description: ""
 ---
-<div class="isomer-image-wrapper"><a target="_blank" href="/images/2024/event_panel_4mweb_16102024_.jpg">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/event_panel_4mweb_16102024_.jpg"></a>
+<div class="isomer-image-wrapper"><a target="_blank" href="/images/2024/event_panel_web_18102024_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/event_panel_web_18102024_v2.jpg"></a>
 </div>
 <style>
 	.col.is-8.is-offset-2.print-content{
