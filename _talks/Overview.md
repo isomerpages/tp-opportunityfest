@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Tue 26 Nov 2024</p>
+<p>26 Nov 2024 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -21,7 +21,7 @@ description: ""
 <p>11am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Admission Talk: NTU &amp; SUSS</strong>
+<p><strong>University Admission Talk: NTU &amp; SUSS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +64,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Wed 27 Nov 2024</p>
+<p>27 Nov 2024 (Wed)</p>
 </th>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ description: ""
 <p>10.30am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Admission Talk: SMU, UAS &amp; SUTD</strong>
+<p><strong>University Admission Talk: SMU, UAS &amp; SUTD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
