@@ -12,7 +12,7 @@ polished headshot?</p>
 <br>Venue: Outside Auditorium 2</p>
 <p>Limited slots are available, so don’t miss out and pre-register now @
 <a href="https://for.edu.sg/tpof2024-photoshoot" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpof2024-photoshoot</a>
-<br>Each participant will receive one complimentary edited photo in soft copy.
+<br>Each participant will receive one complimentary edited photo in soft copy.<br>
 <br>Registered participants are advised to arrive within their allocated time
 slot, as spaces are limited and we may not be able to accommodate latecomers. <br><br>Participants are recommended to dress in smart casual or formal attire.</p>
 <div class="isomer-image-wrapper">
