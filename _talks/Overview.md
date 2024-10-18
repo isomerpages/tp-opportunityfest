@@ -21,7 +21,7 @@ description: ""
 <p>11am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admission Talk: NTU &amp; SUSS</strong>
+<p><strong>University Admissions Talk: NTU &amp; SUSS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ description: ""
 <p>10.30am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admission Talk: SMU, UAS &amp; SUTD</strong>
+<p><strong>University Admissions Talk: SMU, UAS &amp; SUTD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,7 +96,7 @@ description: ""
 <p>2pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Admission Talk: NUS &amp; SIT</strong>
+<p><strong>University Admissions Talk: NUS &amp; SIT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
