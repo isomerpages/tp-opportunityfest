@@ -31,7 +31,7 @@ sections:
       title: Talks
       id: infopic
       button: Find out more
-      url: /talks-26-nov/
+      url: /talks-overview/
       image: /images/2024/talks.jpg
       alt: Image alt text
   - infopic:
