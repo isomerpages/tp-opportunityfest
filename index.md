@@ -4,51 +4,48 @@ title: Temasek Polytechnic Opportunity Fest
 description: An info site for TPOF
 image: /images/Asset/TPOF2022_2.jpg
 permalink: /
-notification: Hello there! Check out the recorded webinars!
+notification: ""
 sections:
   - hero:
-      background: /images/Asset/temasek_poly_2023_web_banner.jpg
+      background: /images/2024/isomer___2800px_x_507px_v8.png
       url: /contact-us/
       key_highlights:
         - title: About TPOF
           description: ""
-          url: /abouttpof2022
-        - title: Webinars
-          description: Rewatch recorded webinars
-          url: /rewatchwebinar/
+          url: /about-tpof-2024
+        - title: Event Details
+          description: ""
+          url: /event-layout-overview/
         - title: Let's Chat
-          description: Make an appointment
+          description: ""
           url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
+      variant: center
   - infopic:
-      title: Job Seeker
-      description: Ready to join the workforce? Prepare yourself with these essential
-        tips and find great job opportunities.
+      title: Exhibitors
+      id: infopic
       button: Find out more
-      url: /jobseeker/
+      url: /exhibitors-list-26-nov
+      image: /images/2024/exhibitors.jpg
       alt: Image alt text
-      image: /images/Asset/Job Seeker.png
   - infopic:
-      title: Entrepreneur / Freelancer
-      description: Dreaming to be your own boss? Here is what you need to know and
-        where to seek support.
+      title: Talks
+      id: infopic
       button: Find out more
-      url: /entrepreneurlfreelancer/
+      url: /talks-overview/
+      image: /images/2024/talks.jpg
       alt: Image alt text
-      image: /images/Asset/Entrepreneur.png
   - infopic:
-      title: Explorer
-      description: Not sure of where to go? It is never too late to start exploring
-        and here is how.
-      button: Find out more
+      title: Professional Photoshoot
+      id: infopic
+      button: Find out More
       alt: Image alt text
-      image: /images/Asset/Explorer.png
-      url: /explorer/
+      image: /images/2024/photoshoot.jpg
+      url: /complimentary-photoshoot-services/
   - infopic:
-      title: Back To School Learner
-      description: Aspire to deepen your knowledge? Explore  further education, higher
-        qualifications, or specialised certifications.
+      title: Event Highlights
+      id: infopic
       button: Find out more
+      url: /event-highlights/
+      image: /images/2024/event_highlights.jpg
       alt: Image alt text
-      image: /images/Asset/Back to school Learner.png
-      url: /backtoschoollearner/
 ---
