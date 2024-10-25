@@ -33,7 +33,7 @@ description: ""
 <p>11am - 12pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>University Admissions Talk: NTU &amp; SUSS</p>
+	<p><b>University Admissions Talk: NTU &amp; SUSS</b></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Auditorium 1</p>
@@ -64,7 +64,7 @@ description: ""
 <p>1pm - 2.30pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Industry Panel Discussion: Green Economy</p>
+<p><b>Industry Panel Discussion: Green Economy</b></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Auditorium 2</p>
@@ -95,7 +95,7 @@ description: ""
 <p>3pm - 4.30pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Industry Panel Discussion: Digital Economy</p>
+<p><b>Industry Panel Discussion: Digital Economy</b></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Auditorium 1</p>
@@ -123,4 +123,21 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<style>
+	td:first-child{
+	width:25%;
+	}
+	td,table p{
+	font-size:16px;
+	}
+	th p{
+	text-align:center;
+	}
+	.col.is-8.is-offset-2.print-content{
+	width:75%;
+	}
+.col.is-1.has-float-btns.is-position-relative.is-hidden-touch
+	{
+	display:none;
+	}
+</style>
