@@ -25,7 +25,7 @@ sections:
       id: infopic
       button: Find out more
       url: /exhibitors-list-26-nov
-      image: /images/2024/exhibitors.jpg
+      image: /images/2024/exhibitors_img.jpg
       alt: Image alt text
   - infopic:
       title: Talks
