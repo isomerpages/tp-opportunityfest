@@ -72,7 +72,7 @@ description: ""
 <p>10.30am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admissions Talk: SMU, UAS &amp; SUTD</strong>
+<p><strong>University Admissions Talk: SMU, SUTD &amp; UAS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
