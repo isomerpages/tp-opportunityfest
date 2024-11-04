@@ -2,6 +2,7 @@ collections:
   event-highlights:
     output: true
     order:
+      - AI Powered Video Interviewing.md
       - Event Highlights.md
       - SIA Cabin Crew Interview.md
       - Jobs Lah Campaign.md
