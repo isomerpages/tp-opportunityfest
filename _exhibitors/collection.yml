@@ -2,5 +2,6 @@ collections:
   exhibitors:
     output: true
     order:
+      - Event Layout.md
       - 26 Nov (Tue).md
       - 27 Nov (Wed).md
