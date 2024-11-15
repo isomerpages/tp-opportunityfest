@@ -4,8 +4,8 @@ permalink: /talks-27-nov/
 variant: markdown
 description: ""
 ---
-<div class="isomer-image-wrapper"><a target="_blank" href="/images/2024/27_nov_talks_v3.png">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/27_nov_talks_v3.png"></a>
+<div class="isomer-image-wrapper"><a target="_blank" href="/images/2024/New%20Image/27_nov_talks.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/New%20Image/27_nov_talks.png"></a>
 </div>
 <style>
 	.col.is-8.is-offset-2.print-content{
