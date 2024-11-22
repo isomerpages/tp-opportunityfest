@@ -5,7 +5,3 @@ variant: markdown
 description: ""
 ---
 ![](/images/26_nov_talks.png)
-
-a {
-    display: none;
-}
