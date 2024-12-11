@@ -12,7 +12,7 @@ sections:
       variant: center
   - infobar:
       id: infobar
-      description: And we deeply appreciate your support and participation.
+      description: We deeply appreciate your support and participation.
       title: TPOF 2024 has successfully concluded.
   - textcards:
       title: Reach Us
