@@ -7,45 +7,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/isomer___2800px_x_507px_v8.png
+      background: /images/2024/New Image/Isomer_placeholder_2800_x_507.png
       url: /contact-us/
-      key_highlights:
-        - title: About TPOF
-          description: ""
-          url: /about-tpof-2024
-        - title: Event Details
-          description: ""
-          url: /event-layout-overview/
-        - title: Let's Chat
-          description: ""
-          url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
       variant: center
-  - infopic:
-      title: Exhibitors
-      id: infopic
-      button: Find out more
-      url: /exhibitors-list-26-nov
-      image: /images/2024/exhibitors_img.jpg
-      alt: Image alt text
-  - infopic:
-      title: Talks
-      id: infopic
-      button: Find out more
-      url: /talks-overview/
-      image: /images/2024/talks.jpg
-      alt: Image alt text
-  - infopic:
-      title: Professional Photoshoot
-      id: infopic
-      button: Find out More
-      alt: Image alt text
-      image: /images/2024/photoshoot.jpg
-      url: /complimentary-photoshoot-services/
-  - infopic:
-      title: Event Highlights
-      id: infopic
-      button: Find out more
-      url: /event-highlights/
-      image: /images/2024/event_highlights.jpg
-      alt: Image alt text
+  - infobar:
+      id: infobar
+      description: TPOF 2024 has successfully concluded, and we deeply appreciate your
+        support and participation.
+  - textcards:
+      title: Reach Us
+      id: textcards
+      cards:
+        - title: Feeback
+          description: Feel free to reach out with questions or feedback at
+            getahead@tp.edu.sg.
+          linktext: Contact Us
+          url: mailto:getahead@tp.edu.sg
+        - title: Partners
+          description: Partners interested in the next TPOF can register their interest
+            here.
+          linktext: Register Here
+          url: http://for.edu.sg/partnerwithtp
 ---
