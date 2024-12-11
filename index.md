@@ -28,4 +28,5 @@ sections:
             here.
           linktext: Register Here
           url: http://for.edu.sg/partnerwithtp
+      description: Stay tuned for future updates, and we hope to see you again soon!
 ---
