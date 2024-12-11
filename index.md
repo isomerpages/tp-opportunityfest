@@ -18,7 +18,7 @@ sections:
       title: Reach Us
       id: textcards
       cards:
-        - title: Feeback
+        - title: Feedback
           description: Feel free to reach out with questions or feedback at
             getahead@tp.edu.sg.
           linktext: Contact Us
