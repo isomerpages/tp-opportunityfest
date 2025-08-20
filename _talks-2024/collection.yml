@@ -1,5 +1,5 @@
 collections:
-  talks:
+  talks-2024:
     output: true
     order:
       - Overview.md
