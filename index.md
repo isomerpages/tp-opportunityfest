@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About TPOF
           description: ""
-          url: "#"
+          url: /about-tpof/
         - title: Let's Chat
           description: ""
           url: "#"
