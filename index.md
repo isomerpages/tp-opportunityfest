@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/TPOF_hero_banner.png
+      background: /images/2025/TPOF_hero_banner___1900px_x_500px.png
       variant: center
       key_highlights:
         - title: About TPOF
