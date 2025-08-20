@@ -2,5 +2,6 @@ collections:
   talks:
     output: true
     order:
+      - 20 Nov (Thu).md
       - 19 Nov (Wed).md
       - Overview.md
