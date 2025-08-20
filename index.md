@@ -20,21 +20,21 @@ sections:
       title: Exhibitors
       id: infopic
       button: FIND OUT MORE
-      url: "#"
+      url: /exhibitors-19-nov-wed/
       image: /images/2025/exhibitor.png
       alt: Image alt text
   - infopic:
       title: Talks
       id: infopic
       button: FIND OUT MORE
-      url: "#"
+      url: /talks-overview/
       image: /images/2025/talks.png
       alt: Image alt text
   - infopic:
       title: Professional Photoshoot
       id: infopic
       button: Find Out More
-      url: "#"
+      url: /professional-photoshoot
       image: /images/2025/professional_photography.png
       alt: Image alt text
 ---
