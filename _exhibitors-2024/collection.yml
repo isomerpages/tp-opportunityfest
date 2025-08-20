@@ -1,5 +1,5 @@
 collections:
-  exhibitors:
+  exhibitors-2024:
     output: true
     order:
       - 26 Nov (Tue).md
