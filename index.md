@@ -8,8 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/2025/TPOF_hero_banner.png
-      url: /contact-us/
       variant: center
+      key_highlights:
+        - title: About TPOF
+          description: ""
+          url: "#"
+        - title: Let's Chat
+          description: ""
+          url: "#"
   - infopic:
       title: Exhibitors
       id: infopic
