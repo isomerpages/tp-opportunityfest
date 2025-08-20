@@ -1,5 +1,5 @@
 collections:
-  event-highlights:
+  event-highlights-2024:
     output: true
     order:
       - Event Highlights.md
