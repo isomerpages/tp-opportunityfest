@@ -1,4 +1,5 @@
 collections:
   exhibitors:
     output: true
-    order: []
+    order:
+      - 19 Nov (Wed).md
