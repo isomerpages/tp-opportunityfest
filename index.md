@@ -13,9 +13,12 @@ sections:
         - title: About TPOF
           description: ""
           url: /about-tpof/
-        - title: Let's Chat
+        - title: Event Details
           description: ""
           url: "#"
+        - title: Let's Chat
+          description: ""
+          url: https://www.tp.edu.sg/life-at-tp/career-services.html
   - infopic:
       title: Exhibitors
       id: infopic
