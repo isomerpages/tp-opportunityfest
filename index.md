@@ -37,7 +37,7 @@ sections:
       title: Event Highlights
       id: infopic
       button: Find Out More
-      url: /professional-photoshoot
+      url: event-highlights
       image: /images/2025/event_highlights.png
       alt: Image alt text
 ---
