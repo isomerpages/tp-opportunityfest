@@ -31,10 +31,10 @@ sections:
       image: /images/2025/talks.png
       alt: Image alt text
   - infopic:
-      title: Professional Photoshoot
+      title: Event Highlights
       id: infopic
       button: Find Out More
       url: /professional-photoshoot
-      image: /images/2025/professional_photography.png
+      image: /images/2025/event_highlights.png
       alt: Image alt text
 ---
