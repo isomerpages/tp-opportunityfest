@@ -2,6 +2,7 @@ collections:
   event-highlights:
     output: true
     order:
+      - Professional Photoshoot.md
       - Post NS Workshop.md
       - Human Library by NTUC Youth.md
       - SIA Cabin Crew Interview.md
