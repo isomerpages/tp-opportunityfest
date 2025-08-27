@@ -3,6 +3,6 @@ links:
   - title: Exhibtors
     collection: exhibitors
   - title: Talks
-    collection: talks
-  - title: Professional Photoshoot
-    url: /professional-photoshoot
+    url: /talks
+  - title: Event Highlights
+    collection: event-highlights
