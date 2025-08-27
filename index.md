@@ -15,7 +15,7 @@ sections:
           url: /about-tpof/
         - title: Event Details
           description: ""
-          url: "#"
+          url: /event-details/
         - title: Let's Chat
           description: ""
           url: https://www.tp.edu.sg/life-at-tp/career-services.html
