@@ -4,7 +4,7 @@ permalink: /exhibitors-120-nov-thu/
 variant: markdown
 description: ""
 ---
-***<p style="margin-bottom:-50px;">Exhibitors in bold will be present on both days</p>***
+<p style="margin-bottom:-50px; font-style:italic; font-weight:600">Exhibitors in bold will be present on both days</p>
 <h4><strong>Autonomous University</strong></h4>
 <ul data-tight="true" class="tight">
 <li><p style="font-weight:600">Nanyang Technological University</p></li>
