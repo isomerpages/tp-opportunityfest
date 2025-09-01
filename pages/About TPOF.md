@@ -17,13 +17,13 @@ Considering further studies? Representatives from all seven local universities w
 <p>Other event highlights to keep a lookout for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Free Professional Photoshoot — refresh your LinkedIn or resume profile with a polished new headshot.</p>
+<p>Free Professional Photoshoot — refresh your LinkedIn or resume profile with a polished new headshot</p>
 </li>
 <li>
-<p>NTUC Youth Human Library — gain insights from inspiring personal stories.</p>
+<p>NTUC Youth Human Library — gain insights from inspiring personal stories</p>
 </li>
 <li>
-<p>SIA Cabin Crew Interview — take your first step towards a career in the skies.</p>
+<p>SIA Cabin Crew Interview — take your first step towards a career in the skies</p>
 </li>
 </ul>
 <p>Many exhibitors will also have exclusive premiums and giveaways up for grabs!
