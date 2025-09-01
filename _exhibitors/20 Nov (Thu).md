@@ -12,7 +12,7 @@ description: ""
 <li><p style="font-weight:600">Singapore Institute of Technology</p></li>
 <li><p style="font-weight:600">Singapore Management University</p></li>
 <li><p style="font-weight:600">Singapore University of Social Sciences</p></li>
-<li><p style="font-weight:600">Singapore University of Technology and Design (SUTD)</p></li>
+<li><p style="font-weight:600">Singapore University of Technology and Design</p></li>
 </ul>
 
 <h4><strong>Design &amp; Media</strong></h4>
