@@ -8,8 +8,6 @@ description: ""
   .schedule-table {
     width: 100%;
     border-collapse: collapse;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
   }
   .schedule-table th,
   .schedule-table td {
@@ -18,17 +16,16 @@ description: ""
     text-align: center;
   }
   .schedule-table th {
-    background: #156082; /* default header color */
-    color: #ffffff!important;
+	font-weight:600;
 	text-align:center!important;
   }
   .schedule-table.green th {
-    background: #196b24; /* alternate header color */
+	font-weight:600;
   }
   /* Consistent column widths */
-  .col-time { width: 20%; }
-  .col-topic { width: 55%; }
-  .col-venue { width: 25%; }
+  .col-time { width: 20%; font-weight:600; }
+  .col-topic { width: 55%;font-weight:600; }
+  .col-venue { width: 25%; font-weight:600;}
 </style>
 
 
