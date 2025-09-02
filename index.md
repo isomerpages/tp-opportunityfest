@@ -24,13 +24,13 @@ sections:
       id: infopic
       button: FIND OUT MORE
       url: /exhibitors-19-nov-wed/
-      image: /images/2025/exhibitor.png
+      image: /images/2025/exhibitor__1_.png
       alt: Image alt text
   - infopic:
       title: Talks
       id: infopic
       button: FIND OUT MORE
-      url: /talks-overview/
+      url: /talks/
       image: /images/2025/talks.png
       alt: Image alt text
   - infopic:
@@ -38,6 +38,6 @@ sections:
       id: infopic
       button: Find Out More
       url: event-highlights
-      image: /images/2025/event_highlights.png
+      image: /images/2025/event_highlights__1_.png
       alt: Image alt text
 ---
