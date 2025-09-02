@@ -4,7 +4,11 @@ title: Temasek Polytechnic Opportunity Fest
 description: An info site for TPOF
 image: /images/Asset/TPOF2022_2.jpg
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information on how to protect yourself against scams, please visit the
+  ScamShield website.
 sections:
   - hero:
       background: /images/2025/TPOF_hero_banner___1900px_x_500px.png
