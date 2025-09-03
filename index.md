@@ -11,7 +11,7 @@ notification: Government officials will NEVER ask you to transfer money or
   ScamShield website.
 sections:
   - hero:
-      background: /images/2025/TPOF_hero_banner___1900px_x_500px.png
+      background: /images/2025/TPOF_hero_banner__1_.png
       variant: center
       key_highlights:
         - title: About TPOF
