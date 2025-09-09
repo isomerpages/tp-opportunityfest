@@ -13,15 +13,27 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>19 Nov 2025 (Wed)</p>
+<p>26 Nov 2024 (Tue)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12pm - 1pm</p>
+<p>11am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admissions Talk: UAS - LASALLE &amp; NAFA</strong>
+<p><strong>University Admissions Talk: NTU &amp; SUSS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditorium 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm - 2.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Industry Panel Discussion: Green Economy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,10 +42,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1pm - 2pm</p>
+<p>3pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admissions Talk: SIT &amp; SUTD</strong>
+<p><strong>Industry Panel Discussion: Digital Economy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,15 +64,27 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>20 Nov 2025 (Thu)</p>
+<p>27 Nov 2024 (Wed)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12pm - 1pm</p>
+<p>10.30am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admissions Talk: NTU &amp; NUS</strong>
+<p><strong>University Admissions Talk: SMU, SUTD &amp; UAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditorium 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm - 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Career Prep Talk by Mcgraw Hill</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +96,19 @@ description: ""
 <p>2pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>University Admissions Talk: SMU &amp; SUSS</strong>
+<p><strong>University Admissions Talk: NUS &amp; SIT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditorium 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Industry Panel Discussion: Care Economy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

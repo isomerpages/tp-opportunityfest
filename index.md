@@ -11,26 +11,37 @@ notification: Government officials will NEVER ask you to transfer money or
   ScamShield website.
 sections:
   - hero:
-      background: /images/2024/New Image/Isomer_placeholder_2800_x_507.png
-      url: /contact-us/
+      background: /images/2025/TPOF_hero_banner__1_.png
       variant: center
-  - infobar:
-      id: infobar
-      description: We deeply appreciate your support and participation.
-      title: TPOF 2024 has successfully concluded.
-  - textcards:
-      title: Reach Us
-      id: textcards
-      cards:
-        - title: Feedback
-          description: Feel free to reach out with questions or feedback at
-            getahead@tp.edu.sg.
-          linktext: Contact Us
-          url: mailto:getahead@tp.edu.sg
-        - title: Partners
-          description: Partners interested in the next TPOF can register their interest
-            here.
-          linktext: Register Here
-          url: http://for.edu.sg/partnerwithtp
-      description: Stay tuned for future updates, and we hope to see you again soon!
+      key_highlights:
+        - title: About TPOF
+          description: ""
+          url: /about-tpof/
+        - title: Event Details
+          description: ""
+          url: /event-details/
+        - title: Let's Chat
+          description: ""
+          url: https://www.tp.edu.sg/life-at-tp/career-services.html
+  - infopic:
+      title: Exhibitors
+      id: infopic
+      button: FIND OUT MORE
+      url: /exhibitors-19-nov-wed/
+      image: /images/2025/exhibitor__1_.png
+      alt: Image alt text
+  - infopic:
+      title: Talks
+      id: infopic
+      button: FIND OUT MORE
+      url: /talks/
+      image: /images/2025/talks.png
+      alt: Image alt text
+  - infopic:
+      title: Event Highlights
+      id: infopic
+      button: Find Out More
+      url: event-highlights
+      image: /images/2025/event_highlights__1_.png
+      alt: Image alt text
 ---

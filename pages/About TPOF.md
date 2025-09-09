@@ -1,43 +1,34 @@
 ---
 title: About TPOF
-permalink: /about-tpof-2024/
+permalink: /about-tpof/
 variant: markdown
 description: ""
 ---
-<p>Join us for TP’s career and further education event, designed to equip,
-engage and empower students and alumni as they seek employment and further
-education opportunities.</p>
-<p></p>
-<p>Dates: 26 &amp; 27 November 2024
-<br>Time: 11am to 5pm
+<p>Mark your calendar for Temasek Polytechnic’s signature career and further education showcase —
+a two-day event created to engage, equip and empower students and alumni for what’s next in their professional and academic journeys.</p>
+
+<p>Dates: 19 &amp; 20 November 2025
+<br>Time: 11:00 am – 5:00 pm
 <br>Venue: TP Auditoria 1 &amp; 2 Foyer</p>
-<p></p>
-<p>At Temasek Polytechnic Opportunity Fest (TPOF) 2024, you'll have the opportunity
-to engage with industry leaders from sectors such as media, finance, public
-service, logistics, and technology. Explore full-time, part-time, and internship
-opportunities while gaining valuable insights into industry trends and
-career prospects. Equip yourself with information on admission requirements
-and further education pathways, as our 7 local universities will be on
-site to share more about their undergraduate programmes and selection process.
-<br>
+<p>At Temasek Polytechnic Opportunity Fest (TPOF) 2025, you will meet and network with industry leaders across diverse sectors including media, finance, public service, logistics, and technology. Whether youareseeking full-time roles, part-time positions, or internship experiences, this is your chance to uncover career pathways and gain insider perspectives on emerging industry trends.
+<br><br>
+Considering further studies? Representatives from all seven local universities will be on-site to share first-hand information about their undergraduate programmes, admission requirements, and selection processes — so you can make informed decisions about your academic future.
 </p>
 <p>Other event highlights to keep a lookout for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Free Professional Photoshoot</p>
+<p>Free Professional Photoshoot — refresh your LinkedIn or resume profile with a polished new headshot</p>
 </li>
 <li>
-<p>SIA Cabin Crew Interview</p>
+<p>NTUC Youth Human Library — gain insights from inspiring personal stories</p>
 </li>
 <li>
-<p>Jobs Lah iPhone 16 Campaign</p>
+<p>SIA Cabin Crew Interview — take your first step towards a career in the skies</p>
 </li>
 </ul>
-<p>Plus, many exhibitors will be offering exclusive premiums and giveaways!
-Don't miss this chance to be empowered —come and explore the exciting opportunities
-waiting for you!<br>
-<br>SEAL points will be awarded to students who completes a feedback survey
-when they attend TPOF!</p>
+<p>Many exhibitors will also have exclusive premiums and giveaways up for grabs!
+And here’s an extra incentive: students who attend and complete the feedback survey will earn SEAL points.<br>
+<br>Don’t just plan your next move — take it. Join us at TPOF 2025 and explore the opportunities waiting for you.</p>
 
 <style>
 	.col.is-8.is-offset-2.print-content{

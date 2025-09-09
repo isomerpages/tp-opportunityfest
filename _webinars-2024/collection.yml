@@ -1,5 +1,5 @@
 collections:
-  webinars:
+  webinars-2024:
     output: true
     order:
       - Webinars Schedule.md

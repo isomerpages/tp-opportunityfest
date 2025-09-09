@@ -1,0 +1,9 @@
+collections:
+  event-highlights-2024:
+    output: true
+    order:
+      - Event Highlights.md
+      - SIA Cabin Crew Interview.md
+      - Jobs Lah Campaign.md
+      - Post NS Workshop.md
+      - AI Powered Video Interviewing.md
