@@ -53,6 +53,11 @@ description: ""
     <td>Human Library: NTUC Youth</td>
     <td>Connexions@TP, The Hive</td>
   </tr>
+	<tr>
+    <td>3pm – 4pm</td>
+    <td>Navigate Your Future with Materials Engineering: NTU</td>
+    <td>EN15-3-26, LT 30</td>
+  </tr>
 </tbody></table>
 
 <br>
