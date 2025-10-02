@@ -1,11 +1,12 @@
 ---
-title: Event Details
-permalink: /page-event-details/
+title: Event Layout
+permalink: /event-layout/
 variant: markdown
 description: ""
 ---
-<h4><strong>This section is being updated. Stay tuned!</strong></h4>
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/event_layout_full_2.png">
+</div>
 <style>
 	.col.is-8.is-offset-2.print-content{
 	width:75%;

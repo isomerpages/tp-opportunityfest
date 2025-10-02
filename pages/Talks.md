@@ -48,6 +48,16 @@ description: ""
     <td>University Admissions Talk: SIT &amp; SUTD</td>
     <td>Auditorium 1</td>
   </tr>
+	<tr>
+    <td>2pm – 5pm</td>
+    <td>Human Library: NTUC Youth</td>
+    <td>Connexions@TP, The Hive</td>
+  </tr>
+	<tr>
+    <td>3pm – 4pm</td>
+    <td>Navigate Your Future with Materials Engineering: NTU</td>
+    <td>EN15-3-26, LT 30</td>
+  </tr>
 </tbody></table>
 
 <br>
@@ -67,10 +77,20 @@ description: ""
     <td>University Admissions Talk: NTU &amp; NUS</td>
     <td>Auditorium 1</td>
   </tr>
+	<tr>
+    <td>1pm – 2pm</td>
+    <td>Taming the Tension: Clarity Singapore</td>
+    <td>Connexions@TP, The Hive</td>
+  </tr>
   <tr>
     <td>2pm – 3pm</td>
     <td>University Admissions Talk: SMU &amp; SUSS</td>
     <td>Auditorium 1</td>
+  </tr>
+	<tr>
+    <td>3pm – 4pm</td>
+    <td>Scholarship Talk: BrightSparks</td>
+    <td>Auditorium 2</td>
   </tr>
 </tbody></table>
 
