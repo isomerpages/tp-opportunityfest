@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong>        
 
-**Take Your Career to the Next Level – Connect with Industry Mentors!**</strong></h4>
+Take Your Career to the Next Level – Connect with Industry Mentors!</strong></h4>
 
 Engage in a Human Library session with mentors from Banking &amp; Finance, ICT, and Sustainability industries! If you're curious about different industries or seeking guidance on your personal and professional development, this is the perfect opportunity to learn, connect, and grow. Come join us!
 
