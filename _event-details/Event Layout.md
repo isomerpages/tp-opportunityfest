@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/event_layout_full_2.png">
+<img target="_blank" style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/event_layout_full_2.png">
 </div>
 <style>
 	.col.is-8.is-offset-2.print-content{
