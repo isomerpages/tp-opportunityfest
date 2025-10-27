@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Calling all aspiring SIA Cabin Crew candidates!
-</strong><p><strong>Here’s your chance to meet recruiters onsite at TPOF 2025 — don’t miss it!</strong></p></h4>
+</strong><p>Here’s your chance to meet recruiters onsite at TPOF 2025 — don’t miss it!</p></h4>
 
 <div class="isomer-image-wrapper">
 
