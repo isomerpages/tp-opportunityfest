@@ -2,8 +2,8 @@ collections:
   event-highlights:
     output: true
     order:
-      - "Navigate Your Future with Materials Engineering: NTU.md"
       - Event Highlights.md
       - Professional Photoshoot.md
       - Human Library by NTUC Youth.md
       - SIA Cabin Crew Interview.md
+      - "Navigate Your Future with Materials Engineering: NTU.md"
