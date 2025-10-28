@@ -8,8 +8,8 @@ description: ""
 </strong><p>Here’s your chance to meet recruiters onsite at TPOF 2025 — don’t miss it!</p></h4>
 
 <div class="isomer-image-wrapper">
-
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/SIA_Cabin_Crew.jpg">
+<a target="_blank" href="/images/2025/SIA_Cabin_Crew.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/SIA_Cabin_Crew.jpg"></a>
 <style>
 	.col.is-8.is-offset-2.print-content{
 	width:75%;
