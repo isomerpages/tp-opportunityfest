@@ -11,7 +11,7 @@ description: ""
 <br>Registered participants are advised to arrive within their allocated time
 slot, as spaces are limited and we may not be able to accommodate latecomers. <br><br>Participants are recommended to dress in smart casual or formal attire.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/photoshoot_poster.png">
+<a target="_blank" href="/images/2025/photoshoot_poster.png"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/photoshoot_poster.png"></a>
 </div>
 <style>
 	.col.is-8.is-offset-2.print-content{
