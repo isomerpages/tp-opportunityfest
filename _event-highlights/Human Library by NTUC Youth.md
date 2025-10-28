@@ -13,9 +13,8 @@ Engage in a Human Library session with mentors from Banking &amp; Finance, ICT, 
 <div class="isomer-image-wrapper">
 	
 <a target="_blank" href="/images/2025/ntuc_youth.jpg">
-	<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/ntuc_youth.jpg"></a>
-	
-
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/ntuc_youth.jpg"></a>
+</div>	
 
 <style>
 	.col.is-8.is-offset-2.print-content{
@@ -25,4 +24,4 @@ Engage in a Human Library session with mentors from Banking &amp; Finance, ICT, 
 	{
 	display:none;
 	}
-</style></div>
+</style>
