@@ -12,7 +12,7 @@ Engage in a Human Library session with mentors from Banking &amp; Finance, ICT, 
 
 <div class="isomer-image-wrapper">
 	
-<a target="_blank" href="/images/2025/ntuc_youth.jpg">
+<a target="_blank" href="https://bit.ly/NY_humanlibtp?r=qr">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/ntuc_youth.jpg"></a>
 </div>	
 
