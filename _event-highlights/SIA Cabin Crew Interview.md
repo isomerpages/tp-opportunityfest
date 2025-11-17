@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Calling all aspiring SIA Cabin Crew candidates!</strong></h4>
-<p>Here’s your chance to meet recruiters onsite at TPOF 2025 — don’t miss it! <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=DRts1THLhUqT4BH40qIV4JAocBn10d5Agxf3Mnnp88lUMERDSUxGT1k2Vjc4OFVYUThUU1hUWko5Qi4u&amp;origin=QRCode">Register Here</a></p>
+<p>Our registration is closed. Please visit our booth (No. 21) on 19 Nov 2025 to find out more about our career opportunities.</p>
 
 <div class="isomer-image-wrapper">
 <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=DRts1THLhUqT4BH40qIV4JAocBn10d5Agxf3Mnnp88lUMERDSUxGT1k2Vjc4OFVYUThUU1hUWko5Qi4u&amp;origin=QRCode">
