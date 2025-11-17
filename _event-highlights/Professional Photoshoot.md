@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Join us for a COMPLIMENTARY professional photoshoot at this year’s TPOF!</strong></h4>
-<p>**All slots are taken!**&nbsp;Walk-ins are welcome, subject to seat availability.
+<p>**All slots are taken!** &nbsp;Walk-ins are welcome, subject to seat availability.
 <br>Registered participants are advised to arrive within their allocated time
 slot, as spaces are limited and we may not be able to accommodate latecomers. 
 	<br>Participants are recommended to dress in smart casual or formal attire.
