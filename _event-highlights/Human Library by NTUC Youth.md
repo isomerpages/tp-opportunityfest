@@ -8,7 +8,8 @@ description: ""
 
 Take Your Career to the Next Level – Connect with Industry Mentors!</strong></h4>
 
-Engage in a Human Library session with mentors from Banking &amp; Finance, ICT, and Sustainability industries! If you're curious about different industries or seeking guidance on your personal and professional development, this is the perfect opportunity to learn, connect, and grow.         <p></p>**All slots are taken!** Walk-ins are welcome on the day, subject to seat availability.
+Engage in a Human Library session with mentors from Banking &amp; Finance, ICT, and Sustainability industries! If you're curious about different industries or seeking guidance on your personal and professional development, this is the perfect opportunity to learn, connect, and grow.   
+**All slots are taken!** Walk-ins are welcome on the day, subject to seat availability.
 
 <div class="isomer-image-wrapper">
 	
