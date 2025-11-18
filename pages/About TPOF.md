@@ -10,7 +10,7 @@ a two-day event created to engage, equip and empower students and alumni for wha
 <p>Dates: 19 &amp; 20 November 2025
 <br>Time: 11:00 am – 5:00 pm
 <br>Venue: TP Auditoria 1 &amp; 2 Foyer</p>
-<p>At Temasek Polytechnic Opportunity Fest (TPOF) 2025, you will meet and network with industry leaders across diverse sectors including media, finance, public service, logistics, and technology. Whether youareseeking full-time roles, part-time positions, or internship experiences, this is your chance to uncover career pathways and gain insider perspectives on emerging industry trends.
+<p>At Temasek Polytechnic Opportunity Fest (TPOF) 2025, you will meet and network with industry leaders across diverse sectors including media, finance, public service, logistics, and technology. Whether you are seeking full-time roles, part-time positions, or internship experiences, this is your chance to uncover career pathways and gain insider perspectives on emerging industry trends.
 <br><br>
 Considering further studies? Representatives from all seven local universities will be on-site to share first-hand information about their undergraduate programmes, admission requirements, and selection processes — so you can make informed decisions about your academic future.
 </p>
