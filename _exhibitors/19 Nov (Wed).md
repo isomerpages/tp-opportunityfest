@@ -75,7 +75,6 @@ description: ""
 <ul data-tight="true" class="tight">
 <li><p>Cognizant</p></li>
 <li><p>NCS Pte Ltd</p></li>
-<li><p>Tata Consultancy Services</p></li>
 </ul>
 
 <h4><strong>Marine and Offshore</strong></h4>
