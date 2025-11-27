@@ -34,5 +34,5 @@ sections:
         - title: Partners
           description: Partners interested in the next TPOF can register their interest here
           linktext: Register Here
-          url: https://tp.questionpro.com/t/ASUUPZ2nto
+          url: https://for.edu.sg/partnerwithtp
 ---
