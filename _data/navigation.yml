@@ -1,8 +1,2 @@
 logo: /images/Temp Album/TP Logo.png
-links:
-  - title: Exhibtors
-    collection: exhibitors
-  - title: Talks
-    url: /talks
-  - title: Event Highlights
-    collection: event-highlights
+links: []
