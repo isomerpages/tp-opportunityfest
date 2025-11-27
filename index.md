@@ -14,34 +14,25 @@ sections:
       background: /images/2025/TPOF_hero_banner__1_.png
       variant: center
       key_highlights:
-        - title: About TPOF
-          description: ""
-          url: /about-tpof/
-        - title: Event Details
-          description: ""
-          url: /event-layout/
         - title: Let's Chat
           description: ""
           url: https://www.tp.edu.sg/life-at-tp/career-services.html
-  - infopic:
-      title: Exhibitors
-      id: infopic
-      button: FIND OUT MORE
-      url: /exhibitors-19-nov-wed/
-      image: /images/2025/exhibitor__1_.png
-      alt: Image alt text
-  - infopic:
-      title: Talks
-      id: infopic
-      button: FIND OUT MORE
-      url: /talks/
-      image: /images/2025/talks.png
-      alt: Image alt text
-  - infopic:
-      title: Event Highlights
-      id: infopic
-      button: Find Out More
-      url: event-highlights
-      image: /images/2025/event_highlights__1_.png
-      alt: Image alt text
+  - infobar:
+      title: TPOF 2025 has successfully concluded
+      id: infobar
+      description: We deeply appreciate your support and participation
+  - textcards:
+      title: Reach Us
+      id: textcards
+      description: Stay tuned for future updates, and we hope to see you again soon!
+      cards:
+        - title: Feedback
+          description: Feel free to reach out with question or feedback at
+            getahead@tp.edu.sg.
+          linktext: Contact Us
+          url: mailto:getahead@tp.edu.sg
+        - title: Partners
+          description: Partners interested in the next TPOF can register their interest here
+          linktext: Register Here
+          url: https://tp.questionpro.com/t/ASUUPZ2nto
 ---
