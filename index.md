@@ -30,7 +30,7 @@ sections:
           description: Feel free to reach out with question or feedback at
             getahead@tp.edu.sg.
           linktext: Contact Us
-          url: mailto:getahead@tp.edu.sg
+          url: getahead@tp.edu.sg
         - title: Partners
           description: Partners interested in the next TPOF can register their interest here
           linktext: Register Here
